@@ -40,20 +40,20 @@ const About = () => {
         </div>
         <div className='aboutTextContainer'>
           <div className='aboutText'>
-            On the edge of the world stands the progressive town of Binaryville, where technology is a way of life.
+            On the edge of the world stands the progressive town of Livesirens, where technology is a way of life.
           </div>
           <div className='aboutText'>
-            The robots who live, work, and play in Binaryville learn from an early age that magic is made simply by
+            The robots who live, work, and play in Livesirens learn from an early age that magic is made simply by
             combining 0's and 1's.
           </div>
           <div className='aboutText'>
-            For the Binaryville robots, every waking thought and every sleeping dream is consumed with unique
+            For the Livesirens robots, every waking thought and every sleeping dream is consumed with unique
             permutations… and endless possibilities. This is our happy place, and we invite the dreamers, thinkers,
             and inventors of the world to unite in our passion for building something out of nothing.
           </div>
           <div className='aboutText'>
-            (Well, nothing plus 1.) Visit Binaryville and let your imagination soar! This is our first collection
-            of Binaryville Robot NFTs is uniquely handdrawn and gives you access to our community. Mint today and
+            (Well, nothing plus 1.) Visit Livesirens and let your imagination soar! This is our first collection
+            of Livesirens Robot NFTs is uniquely handdrawn and gives you access to our community. Mint today and
             join us!
           </div>
         </div>

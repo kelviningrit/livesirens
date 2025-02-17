@@ -30,11 +30,12 @@ const Navbar = () => {
 
   function handleButtonClick() {
 
-    toggleConnected(!isConnected)
-    if(!isConnected) {
-      connectWallet()
-    }
-    else {mintNFT()}
+    alert("")
+    // toggleConnected(!isConnected)
+    // if(!isConnected) {
+    //   connectWallet()
+    // }
+    // else {mintNFT()}
   }
 
   async function mintNFT() {
